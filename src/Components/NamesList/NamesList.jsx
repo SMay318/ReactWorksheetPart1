@@ -2,11 +2,7 @@ import React from 'react';
 
 const NamesList = (props) => {
     
-    
-    
-    
-    
- return ( 
+    return ( 
         <div>
            <ul>
                 {props.listOfNames.map((listOfNames) => (
